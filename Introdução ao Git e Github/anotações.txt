@@ -1,0 +1,11 @@
+git init (inicia o git)
+git add . (adiciona aquivos)
+git commit (comentario)
+git status
+
+ls -a (mostra arquivos ocultos)
+mv nome do arquivo ./pasta/ (move um arquivo para outra pasta)
+
+echo > arquivo.formato (cria um arquivo) 
+
+git push origin main
